@@ -1,0 +1,20 @@
+sky, dog, cat, jump, happy, run, computer, apple, orange, table, chair, water
+bottle, book, pencil, school, student, teacher, learn, play, game, music, guitar
+dance, party, birthday, cake, chocolate, coffee, morning, night, sleep, dream, love
+heart, kiss, hug, friend, family, parent, child, sister, brother, mother, father, cousin
+aunt, uncle, grandma, grandpa, baby, newborn, toddler, teenager, adult, old, young, age
+life, death, birth, start, end, finish, goal, achieve, success, failure, mistake, error
+correct, right, wrong, truth, lie, honesty, trust, believe, doubt, question, answer, problem
+solution, fix, repair, build, create, make, design, art, paint, draw, color, red
+blue, green, yellow, black, white, gray, brown, pink, purple, rainbow, skyblue, ocean
+sea, lake, river, stream, waterfall, forest, tree, flower, plant, grass, leaf, root
+branch, trunk, wood, paper, plastic, metal, glass, stone, rock, mountain, hill, valley
+plain, desert, sand, soil, earth, planet, universe, galaxy, star, sun, moon, comet
+asteroid, meteor, space, time, clock, hour, minute, second, day, week, month, year
+decade, century, past, present, future, yesterday, today, tomorrow, next, last, first, middle
+endmost, north, south, east, west, direction, map, guide, compass, GPS, location, place
+space, room, house, home, building, city, town, village, country, nation, world, globe
+continent, island, beach, coast, shore, ocean, sea, lake, river, stream, waterfall, forest
+jungle, savanna, desert, mountain, hill, valley, plain, plateau, canyon, cave, volcano, earthquake
+tsunami, hurricane, tornado, storm, lightning, thunder, rain, snow, ice, frost, wind, breeze
+air, atmosphere, climate, weather, season, spring, summer
